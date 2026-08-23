@@ -13,9 +13,7 @@ A collection of notes built while working on embedded hardware and PCB design �
 - **Physical layer** — wiring, voltage levels, connector types
 - **Timing & signaling** — clock behavior, framing, bit order
 - **Common configurations** — typical speeds, modes, addressing
-- **Debugging tips** — common issues and how to catch them
-- **References** — datasheets, application notes, useful links
-
+- 
 ## Contact
 
 - **Raju Gudala**
